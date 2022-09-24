@@ -1,6 +1,6 @@
 # starter-pinia
 
-[Starter Pinia in 30 MINUTES! (Vue JS 3)](https://www.youtube.com/watch?v=JGC7aAC-3y8)
+[Learn Pinia in 30 MINUTES! (Vue JS 3)](https://www.youtube.com/watch?v=JGC7aAC-3y8)
 
 This template should help get you started developing with Vue 3 in Vite.
 
